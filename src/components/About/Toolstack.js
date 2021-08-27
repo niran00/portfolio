@@ -3,22 +3,26 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiLinux,
   SiVisualstudiocode,
-  SiJupyter,
+  SiNpm,
   SiPostman,
   SiHeroku,
 } from "react-icons/si";
+
+import {
+  DiGithubBadge
+} from "react-icons/di"
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiLinux />
+        <DiGithubBadge />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiJupyter />
+        <SiNpm />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />

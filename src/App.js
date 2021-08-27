@@ -12,6 +12,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import ScrollToTop from "./components/ScrollToTop";
+import { BiHomeHeart } from "react-icons/bi";
 
 function App() {
   const [load, upadateLoad] = useState(true);
