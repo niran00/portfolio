@@ -22,20 +22,20 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             Programming first started as a hobby, overtime, I've learnt a few thing 
-              something, I think… 🤷‍♂️
+              Computers have always fascinated me.
+              Over the years, I gained many skills and much experience. 🧘‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in classic programming languages,
               <i>
-                <b className="purple"> HTML, CSS, and Javascript </b>
+                <b className="purple">including Javascript, PHP, CSS, and HTML. </b>
               </i>
               <br />
               <br />
-              My field of interests are building  &nbsp;
+              My field of interest is building 
               <i>
                 <b className="purple">Web Sites and Applications </b> 
               </i>  
-                in areas related to both  {" "}
+                in both the {" "}
               <i> 
                 <b className="purple">
                   Frontend and Backend.
@@ -43,12 +43,11 @@ function Home2() {
               </i>
               <br />
               <br />
-              A larger number of websites were made on <b className="purple">Wordpress</b>. 
+              I have designed a large number of websites using <b className="purple">WordPress.</b> 
               <br/>
-              However, whenever possible, I like to apply my passion for developing products
-              with 
+              However, whenever possible, I like to apply my passion for developing products with
               <i>
-                <b className="purple">Node.js</b> 
+                <b className="purple"> Node.js</b> 
               </i> and
               <i>
                 <b className="purple">
